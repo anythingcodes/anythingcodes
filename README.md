@@ -1,6 +1,6 @@
 # Hi, I'm Liz 👋 👩‍💻
 
-<img src="https://media-exp1.licdn.com/dms/image/C512DAQHMAuVqjzIY4A/profile-treasury-image-shrink_1280_1280/0/1602478198589?e=1607101200&v=beta&t=5CcOU3svB5TRAJkILMNCaMrdvlHrSNMuxN7ceczkC5M" alt="Teaching an ES6 course for Women Who Code Boston">
+[![Teaching an ES6 course for Women Who Code Boston](https://github.com/anythingcodes/anythingcodes/blob/master/teaching.jpeg)]
 
 I'm a senior software engineer who is passionate about teaching code, learning new tech stacks and techniques, design systems, reading, mechanical keyboards, and emoji.
 
